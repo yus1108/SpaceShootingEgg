@@ -1,0 +1,36 @@
+Initialize engine version: 5.5.2f1 (3829d7f588f3)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA Quadro M2000M (ID=0x13b0)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   22.21.13.8573
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\yus11\OneDrive\Portfolios\Space Shooting Egg\Executable\Prototype_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\yus11\OneDrive\Portfolios\Space Shooting Egg\Executable\Prototype_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\yus11\OneDrive\Portfolios\Space Shooting Egg\Executable\Prototype_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\yus11\OneDrive\Portfolios\Space Shooting Egg\Executable\Prototype_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\yus11\OneDrive\Portfolios\Space Shooting Egg\Executable\Prototype_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\yus11\OneDrive\Portfolios\Space Shooting Egg\Executable\Prototype_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\yus11\OneDrive\Portfolios\Space Shooting Egg\Executable\Prototype_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\yus11\OneDrive\Portfolios\Space Shooting Egg\Executable\Prototype_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\yus11\OneDrive\Portfolios\Space Shooting Egg\Executable\Prototype_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\yus11\OneDrive\Portfolios\Space Shooting Egg\Executable\Prototype_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.140 seconds
+Platform assembly: C:\Users\yus11\OneDrive\Portfolios\Space Shooting Egg\Executable\Prototype_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\yus11\OneDrive\Portfolios\Space Shooting Egg\Executable\Prototype_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.272494 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 3968 -> priority: 1 
+  Thread -> id: 3a9c -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.819259 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 335.
+Total: 0.253234 ms (FindLiveObjects: 0.071901 ms CreateObjectMapping: 0.019358 ms MarkObjects: 0.154074 ms  DeleteObjects: 0.007111 ms)
+
